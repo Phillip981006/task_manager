@@ -1,0 +1,7 @@
+serverside stack ( next.js ) vs headless stack ( express.js && react ) 
+
+serverside rendring
+    - builds html page on the server and passes the html page to the user 
+    - nextjs is an extra layer on top of react 
+    
+
